@@ -3,3 +3,7 @@ Edad: 28
 Esta es una pequeña prueba para ver cómo funcionan las cosas
 en un curso de git que estoy haciendo durante el PlatziDay
 
+Se está preparando como desarrollador, para expotlotar sus habilidades
+También le gustan todas las cosas relacionadas con el mundo informático.
+
+
